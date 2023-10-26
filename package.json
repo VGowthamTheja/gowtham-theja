@@ -4,7 +4,8 @@
   "description": "This is my business card",
   "main": "index.js",
   "bin": {
-    "biz-card": "./index.js"
+    "biz-card": "./index.js",
+    "gowtham-theja": "./index.js"
   },
   "keywords": ["javascript", "node", "cli", "business card"],
   "homepage": "https://github.com/VGowthamTheja/gowtham-theja",
