@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": {
     "biz-card": "./index.js",
-    "gowtham-theja": "./index.js"
+    "gowtham": "index.js"
   },
   "keywords": ["javascript", "node", "cli", "business card"],
   "homepage": "https://github.com/VGowthamTheja/gowtham-theja",
