@@ -3,7 +3,7 @@
 console.log(`
 Vempalli Gowtham Theja
 Github: https://github.com/VGowthamTheja
-NPM: https://www.npmjs.com/~gowthamtheja
+NPM: https://www.npmjs.com/~gowtham_theja_vempalli
 GMail: vempalligowthamtheja@gmail.com
 `)
 
