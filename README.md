@@ -1,21 +1,25 @@
 # Business Card
 
-This repository contains a simple business card website built with HTML, CSS, and JavaScript.
+This repository contains a simple business card website built with command-line javascript
 
 ## Features
 
-- Responsive design that adapts to different screen sizes
-- Interactive elements powered by JavaScript
-- Clean and minimalistic design
+- Command-line printing the Business card
 
 ## Usage
 
-To view the website, simply open the `index.html` file in your web browser.
+To view the Business card on terminal, simply open the `bash` or `powershell` terminal.
+```
+npx gowtham-theja
+```
+or
+```
+npx -p gowtham-theja gowtham
+```
 
 ## Credits
 
-- Business card design inspired by [this Dribbble shot](https://dribbble.com/shots/14177291-Business-Card-Design)
-- Icons from [Font Awesome](https://fontawesome.com/)
+- Business card by command-line interface
 
 ## License
 
